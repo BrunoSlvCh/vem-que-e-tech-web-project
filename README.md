@@ -2,6 +2,42 @@
 
 Atividade acadêmica Programação em Scripts: sistema web de assistência técnica sob demanda, em que clientes abrem chamados, técnicos enviam orçamentos e o serviço é acompanhado até o pagamento e a avaliação, feito com HTML, CSS, JavaScript e PHP, usando banco de dados MySQL.
 
+## Demonstração
+
+### Login
+
+<p align="center">
+  <img src="imagens/01_login_escuro.png" width="48%" alt="Login, tema escuro">
+  <img src="imagens/02_login_claro.png" width="48%" alt="Login, tema claro">
+</p>
+
+### Cadastro
+
+<p align="center">
+  <img src="imagens/03_cadastro_escuro.png" width="48%" alt="Cadastro, tema escuro">
+  <img src="imagens/04_cadastro_claro.png" width="48%" alt="Cadastro, tema claro">
+</p>
+
+### Meus chamados (cliente)
+
+<p align="center">
+  <img src="imagens/08_meus_chamados_cliente_escuro.png" width="48%" alt="Meus chamados do cliente, tema escuro">
+  <img src="imagens/09_meus_chamados_cliente_claro.png" width="48%" alt="Meus chamados do cliente, tema claro">
+</p>
+
+### Dashboard (técnico)
+
+<p align="center">
+  <img src="imagens/05_dashboard_tecnico_escuro.png" width="48%" alt="Dashboard do técnico, tema escuro">
+  <img src="imagens/06_dashboard_tecnico_claro.png" width="48%" alt="Dashboard do técnico, tema claro">
+</p>
+
+### Configurações (técnico)
+
+<p align="center">
+  <img src="imagens/07_configuracoes_tecnico_claro.png" width="70%" alt="Configurações do técnico, tema claro">
+</p>
+
 ## Tecnologias
 
 * HTML
