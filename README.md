@@ -1,4 +1,4 @@
-# Vem que é Tech (VQT)
+# Vem que é Tech (VQT) - Web
 
 Atividade acadêmica Programação em Scripts: sistema web de assistência técnica sob demanda, em que clientes abrem chamados, técnicos enviam orçamentos e o serviço é acompanhado até o pagamento e a avaliação, feito com HTML, CSS, JavaScript e PHP, usando banco de dados MySQL.
 
